@@ -21,7 +21,7 @@ Requires a text file with company names (one per line).
 
 ### search_tool_ggl.py 
 
-Grabs companies and URL's frmo the Gemeinsame Glücksspielbehörde der Länder public registry.  
+Grabs companies and URL's from the Gemeinsame Glücksspielbehörde der Länder public registry.  
 
 
 ### search_tool_ksa.py
