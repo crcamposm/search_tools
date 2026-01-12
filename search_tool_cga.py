@@ -316,7 +316,7 @@ if __name__ == "__main__":
     parser.add_argument("-n", "--num", type=int, default=30, help="Number of results to fetch per company (default: 30)")
     parser.add_argument("--filter", type=str, default="https://cert.gcb.cw/certificate", help="Only return URLs starting with this prefix")
     parser.add_argument("--file", type=str, help="Path to file containing company names (one per line)")
-    parser.add_argument("--output-dir", type=str, default=".", help="Directory to save output files (default: current directory)")
+    parser.add_argument("--output", type=str, default=".", help="Directory to save output files (default: current directory)")
     parser.add_argument("--attach", action="store_true", help="Attach to an already running Chrome on localhost:9222")
     parser.add_argument("--user-data-dir", type=str, help="Path to your Chrome user data directory for persistent sessions")
     parser.add_argument("--profile", type=str, default="Default", help="Chrome profile directory name (default: Default)")
