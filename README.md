@@ -24,12 +24,9 @@ Grabs companies and URL's frmo the Gemeinsame Glücksspielbehörde der Länder p
 
 search_tool_ksa.py
 
-Grabs companies and URL'S from the Kansspelautoriteit (Netherlands Gaming Authority) public registry.
+Grabs companies and URL's from the Kansspelautoriteit (Netherlands Gaming Authority) public registry.
 
 
 search_tool_sga.py
-
-Grabs companies and URL'S from the Spelinspektionen (Swedish Gambling Authority) public registry.
-
 
 Grabs companies and URL's from the Spelinspektionen (Swedish Gambling Authority) public registry.
