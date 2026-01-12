@@ -1,5 +1,6 @@
 # search_tools
-Programs made for scraping company info, as well as URL's, from different public registries.
+Programs made for scraping company info, as well as URL's, from different public registries.  
+**DISCLAIMER:** Basically all of the code was written with help from AI tools such as ChatGPT and Google's Antigravity.
   
 ### search_tool_cga.py
 
